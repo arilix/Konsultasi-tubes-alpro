@@ -1,6 +1,6 @@
 # Konsultasi Tubes Alpro
 
-Repository ini berisi hasil konsultasi tugas besar algoritma pemrograman untuk Kelompok 2.
+Repository ini berisi hasil konsultasi tugas besar algoritma pemrograman.
 
 ## Isi Utama
 
