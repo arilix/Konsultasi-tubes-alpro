@@ -4,14 +4,14 @@ Repository ini berisi hasil konsultasi tugas besar algoritma pemrograman.
 
 ## Isi Utama
 
-- Kode program C++ aplikasi CLI: `Konsultasi kelompok 2/Kelompok2.cpp`
+- Kode program C++ aplikasi CLI: `Konsultasi kelompok x/Kelompokx.cpp`
 - Dokumen analisis kesesuaian terhadap ketentuan tugas: `Konsultasi kelompok 2/analisa2.md`
 
 ## Cara Kompilasi dan Menjalankan
 
 ```bash
-g++ "Konsultasi kelompok 2/Kelompok2.cpp" -std=c++17 -Wall -Wextra -o kelompok2
-./kelompok2
+g++ "Konsultasi kelompok x/Kelompokx.cpp" -std=c++17 -Wall -Wextra -o kelompokx
+./kelompokx
 ```
 
 ## Catatan
