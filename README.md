@@ -5,7 +5,7 @@ Repository ini berisi hasil konsultasi tugas besar algoritma pemrograman.
 ## Isi Utama
 
 - Kode program C++ aplikasi CLI: `Konsultasi kelompok x/Kelompokx.cpp`
-- Dokumen analisis kesesuaian terhadap ketentuan tugas: `Konsultasi kelompok 2/analisa2.md`
+- Dokumen analisis kesesuaian terhadap ketentuan tugas: `Konsultasi kelompok x/analisax.md`
 
 ## Cara Kompilasi dan Menjalankan
 
